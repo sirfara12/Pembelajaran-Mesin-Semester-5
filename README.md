@@ -1,4 +1,7 @@
-# Pembelajaran-Mesin-Semester-5
-NAMA : SIRFARATIH
-KELAS : TI 3G
-NIM : 2341720072
+# Pembelajaran Mesin - Semester 5
+
+**Nama:** Sirfa Ratih  
+**Kelas:** TI 3G  
+**NIM:** 2341720072  
+
+---
